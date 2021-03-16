@@ -1,1 +1,15 @@
-# komdat-p1-kel13
+# sekilas tentang
+
+# Instalasi
+
+# Konfigurasi
+
+# Maintenance
+
+# Otomatisasi
+
+# Cara Pemakaian
+
+# Pembahasan
+
+# Referensi
