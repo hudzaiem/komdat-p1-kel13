@@ -19,21 +19,20 @@ pada awal instalasi, login kedalam server menggunakan SSH
 Setelah itu terdapat 3 Cara / versi :
 1. **Versi sangat pendek**
 
-    ```
- $ mkdir commafeed && cd commafeed
- $ wget https://github.com/Athou/commafeed/releases/download/2.5.0/commafeed.jar
- $ wget https://raw.githubusercontent.com/Athou/commafeed/2.5.0/config.yml.example -O config.yml
- $ vi config.yml
- $ java -Djava.net.preferIPv4Stack=true -jar commafeed.jar server config.yml
+     $ mkdir commafeed && cd commafeed
+     $ wget https://github.com/Athou/commafeed/releases/download/2.5.0/commafeed.jar
+     $ wget https://raw.githubusercontent.com/Athou/commafeed/2.5.0/config.yml.example -O config.yml
+     $ vi config.yml
+     $ java -Djava.net.preferIPv4Stack=true -jar commafeed.jar server config.yml
 
 2. **Versi Pendek**
-    ```
-$ git clone https://github.com/Athou/commafeed.git
-$ cd commafeed
-$ ./mvnw clean package
-$ cp config.yml.example config.yml
-$ vi config.yml
-$ java -Djava.net.preferIPv4Stack=true -jar target/commafeed.jar server config.yml
+
+    $ git clone https://github.com/Athou/commafeed.git
+    $ cd commafeed
+    $ ./mvnw clean package
+    $ cp config.yml.example config.yml
+    $ vi config.yml
+    $ java -Djava.net.preferIPv4Stack=true -jar target/commafeed.jar server config.yml
 
 3. **Versi Panjang**
 
@@ -84,19 +83,19 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
--Tampilan aplikasi web
--Fungsi-fungsi utama
--Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+- Tampilan aplikasi web
+- Fungsi-fungsi utama
+- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 
 ## Pembahasan
 Aplikasi Commafeed ini memiliki berbagai kelebihan dan kekurangan . Kelebihan dari Commafeed diantaranya :
--Terintegrasi dengan banyak situs
--Responsif terhadap berbagai macam ukuran
+- Terintegrasi dengan banyak situs
+- Responsif terhadap berbagai macam ukuran
  
 Sementara itu kekurangan dari Commafeed ini adalah :
--Fitur yang cukup rumit
--Banyak aplikasi sejenis yang lebih lengkap fiturnya
+- Fitur yang cukup rumit
+- Banyak aplikasi sejenis yang lebih lengkap fiturnya
 
 
 ## Referensi
