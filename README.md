@@ -14,25 +14,25 @@ Commafeed merupakan aplikasi pembaca feed yang terbuka untuk umum dan juga grati
 ### Proses Instalasi
 pada awal instalasi, login kedalam server menggunakan SSH
     
-    $ ssh student@localhost -p 2200
+        $ ssh student@localhost -p 2200
   
 Setelah itu terdapat 3 Cara / versi :
 1. **Versi sangat pendek**
 
-     $ mkdir commafeed && cd commafeed
-     $ wget https://github.com/Athou/commafeed/releases/download/2.5.0/commafeed.jar
-     $ wget https://raw.githubusercontent.com/Athou/commafeed/2.5.0/config.yml.example -O config.yml
-     $ vi config.yml
-     $ java -Djava.net.preferIPv4Stack=true -jar commafeed.jar server config.yml
+        $ mkdir commafeed && cd commafeed
+        $ wget https://github.com/Athou/commafeed/releases/download/2.5.0/commafeed.jar
+        $ wget https://raw.githubusercontent.com/Athou/commafeed/2.5.0/config.yml.example -O config.yml
+        $ vi config.yml
+        $ java -Djava.net.preferIPv4Stack=true -jar commafeed.jar server config.yml
 
 2. **Versi Pendek**
 
-    $ git clone https://github.com/Athou/commafeed.git
-    $ cd commafeed
-    $ ./mvnw clean package
-    $ cp config.yml.example config.yml
-    $ vi config.yml
-    $ java -Djava.net.preferIPv4Stack=true -jar target/commafeed.jar server config.yml
+        $ git clone https://github.com/Athou/commafeed.git
+        $ cd commafeed
+        $ ./mvnw clean package
+        $ cp config.yml.example config.yml
+        $ vi config.yml
+        $ java -Djava.net.preferIPv4Stack=true -jar target/commafeed.jar server config.yml
 
 3. **Versi Panjang**
 
@@ -50,14 +50,17 @@ Setelah itu terdapat 3 Cara / versi :
         $ sudo update-alternatives --config javac
     
     b. Duplikasi  repositori ini
+    
         $ git clone https://github.com/Athou/commafeed.git
         $ cd commafeed
         
     c. Setelah itu lakukan build pada apilkasi
-        ./mvnw clean package
+    
+        $ ./mvnw clean package
     
     d. salin `config.yml.example` ke `config.yml` lalu edit. Kemudian ikuti langkah untuk menjalankan aplikasi ini. Server yang digunakan di `http://localhost:8082`
-        java -Djava.net.preferIPv4Stack=true -jar target/commafeed.jar server config.yml
+    
+        $ java -Djava.net.preferIPv4Stack=true -jar target/commafeed.jar server config.yml
 
     
 ## Konfigurasi
