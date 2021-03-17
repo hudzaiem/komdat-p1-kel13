@@ -1,6 +1,6 @@
 # Aplikasi Web Commafeed
 
-
+![Icon Commafeed](1200px-CommaFeed.svg.png)
 
 ## sekilas tentang
 Commafeed merupakan aplikasi pembaca feed yang terbuka untuk umum dan juga gratis. Dengan aplikasi ini kita dapat membuka berbagai bacaan dalam format apapun bahkan dalam bentuk url juga. Selain itu dengan aplikasi ini juga kita dapat melakukan hosting sendiri melalu server web. Tampilan dari aplikasi ini pun cukup responsif yang mana dapat menyesuaikan dengan ukura pengguna seperti di laptop, hp ataupun tablet.
