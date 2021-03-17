@@ -1,4 +1,4 @@
-# sekilas tentang
+# Sekilas tentang
 
 # Instalasi
 
