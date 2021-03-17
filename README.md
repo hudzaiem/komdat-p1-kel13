@@ -90,11 +90,13 @@ Plugin untuk fungsi tambahan :
 
 
 ## Pembahasan
-Aplikasi Commafeed ini memiliki berbagai kelebihan dan kekurangan . Kelebihan dari Commafeed diantaranya :
+Aplikasi Commafeed ini memiliki berbagai kelebihan dan kekurangan
+
+### Kelebihan dari Commafeed :
 - Terintegrasi dengan banyak situs
 - Responsif terhadap berbagai macam ukuran
  
-Sementara itu kekurangan dari Commafeed ini adalah :
+### kekurangan dari Commafeed ini :
 - Fitur yang cukup rumit
 - Banyak aplikasi sejenis yang lebih lengkap fiturnya
 
