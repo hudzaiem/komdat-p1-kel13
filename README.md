@@ -1,6 +1,6 @@
 # Aplikasi Web Commafeed
 
-<img src="1200px-CommaFeed.svg.png" width="300" height="300" align=middle>
+<img src="1200px-CommaFeed.svg.png" width="300" height="300" align=center>
 
 ### Kelompok 13
 | Nama                   | NIM       |
@@ -11,7 +11,7 @@
 | Muhammad Hafiduddin    | G64180017 |
 
 ## sekilas tentang
-***Commafeed*** merupakan aplikasi pembaca feed yang terbuka untuk umum dan juga gratis. Dengan aplikasi ini kita dapat membuka berbagai bacaan dalam format apapun bahkan dalam bentuk url juga. Selain itu dengan aplikasi ini juga kita dapat melakukan hosting sendiri melalu server web. Tampilan dari aplikasi ini pun cukup responsif yang mana dapat menyesuaikan dengan ukura pengguna seperti di laptop, hp ataupun tablet.
+***Commafeed*** merupakan aplikasi pembaca RSS feed yang terbuka untuk umum dan juga gratis. Dengan aplikasi ini kita dapat mengikuti berbagai jenis feeds xml dan mendapat update terbaru informasi feeds tersebut. Selain itu dengan aplikasi ini juga kita dapat melakukan hosting sendiri melalu server web. Tampilan dari aplikasi ini pun cukup responsif yang mana dapat menyesuaikan dengan ukuran pengguna seperti di laptop, hp ataupun tablet.
 
 ## Instalasi
 ### Kebutuhan sistem
