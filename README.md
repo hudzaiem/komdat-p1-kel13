@@ -88,7 +88,7 @@ Plugin untuk fungsi tambahan :
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
-<img src="/Foto/1.png" width="300" height="300" align=center>
+<img src="/Foto/1.png" align=center>
 
 ## Pembahasan
 Aplikasi Commafeed ini memiliki berbagai kelebihan dan kekurangan
