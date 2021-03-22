@@ -37,10 +37,13 @@ Setelah itu terdapat 3 Cara / versi :
 
         $ git clone https://github.com/Athou/commafeed.git
         $ cd commafeed
-        $ ./mvnw clean package
-        $ cp config.yml.example config.yml
-        $ vi config.yml
-        $ java -Djava.net.preferIPv4Stack=true -jar target/commafeed.jar server config.yml
+        $ sudo ./mvnw clean package
+        $ sudo cp config.yml.example config.yml
+        $ cd target
+        $ sudo cd wget  https://github.com/Athou/commafeed/releases/download/2.5.0/commafeed.jar
+        $ cd ..
+        $ sudo vi config.yml
+        $ sudo java -Djava.net.preferIPv4Stack=true -jar target/commafeed.jar server config.yml
 
 3. **Versi Panjang**
 
