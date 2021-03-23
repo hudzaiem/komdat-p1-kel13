@@ -107,20 +107,22 @@ Selama kita menjalankan proses tersebut kita bisa mengakses aplikasi tadi lewat 
 
 ## Cara Pemakaian
 1. Kita Login terlebih dahulu (untuk setiap pemakai sudah diberi usernama dan password default sehingga tidak perlu melakukan proses SignUp)
-<img src="/Foto/1.png" align=center>
+<img align="center" src="/Foto/1.png" width="800">
 
 2. Setelah berhasil kita akan masuk ke tampilan utama
-
-![2](https://user-images.githubusercontent.com/60167974/112223320-5243ff80-8c5c-11eb-8bd8-db4a23497de6.png = 10x10)
-
+<img align="center" src="/Foto/2.png" width="800">
 
 3. Untuk memulai berlangganan dengan website yang akan diambil tekan tombol Subscribe di kiri atas
+<img align="center" src="/Foto/3.png" width="800">
 
 4. Masukan Link website yang dituju, beri judul dan pilih kategori. Setelah semua selesai tekan tombol Save
+<img align="center" src="/Foto/4.png" width="800">
 
 5. Proses berhasil dan kita bisa kembali ke halaman utama, maka Website berita yang dituju akan muncul
+<img align="center" src="/Foto/5.png" width="800">
 
 6. Selain itu semua artikel baerita tersebut akan muncul semua da kita bisa me refresh terus agar berita yang muncul dapat terus terupdate
+<img align="center" src="/Foto/6.png" width="800">
 
 Selain bisa mengambil berita, fitur lainnya yang dapat digunakan lewat aplikasi Commafeed ini diantaranya :
 - Mengganti tema Website
