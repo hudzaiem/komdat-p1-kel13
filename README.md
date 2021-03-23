@@ -110,7 +110,8 @@ Selama kita menjalankan proses tersebut kita bisa mengakses aplikasi tadi lewat 
 <img src="/Foto/1.png" align=center>
 
 2. Setelah berhasil kita akan masuk ke tampilan utama
-<img src="/Foto/2.png" align=center>
+
+![2](https://user-images.githubusercontent.com/60167974/112223320-5243ff80-8c5c-11eb-8bd8-db4a23497de6.png = 10x10)
 
 
 3. Untuk memulai berlangganan dengan website yang akan diambil tekan tombol Subscribe di kiri atas
