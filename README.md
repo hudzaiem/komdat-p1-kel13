@@ -82,8 +82,28 @@ Disini kelompok kami menggunakan cara versi pendek, berikut prosesnya :
 
         $ sudo apt install apache2
         $ sudo apt-get install default-jre
+        
+- Lalu dilanjutkan dengan menjalankan proses seperti pada skrip diatas. Pertama mengambil data dari github Commafeed sendiri
 
+        $ Sudo git clone https://github.com/Athou/commafeed.git
+        
+- Lalu masuk ke direktori Commafeed
+        
+        $ cd commafeed
 
+- Lalu kita menginstall package menggunakan maven
+        
+        $ ./mvnw clean package
+        
+- Selanjutnya file config.yml.example di copy menjadi config.yml
+
+        $ cp config.yml.example config.yml
+
+- Lalu terakhir kita menjalankan kode :
+
+        $ Sudo java -Djava.net.preferIPv4Stack=true -jar target/commafeed.jar server config.yml
+
+Selama kita menjalankan proses tersebut kita bisa mengakses aplikasi tadi lewat link `http://localhost:8082` di browser maka aplikasi Commafeed akan ditampilkan
 
 ## Cara Pemakaian
 - Tampilan aplikasi web
