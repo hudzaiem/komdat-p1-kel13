@@ -113,19 +113,30 @@ Selama kita menjalankan proses tersebut kita bisa mengakses aplikasi tadi lewat 
 <img src="/Foto/1.png" align=center>
 
 ## Pembahasan
-Aplikasi Commafeed ini memiliki berbagai kelebihan dan kekurangan
+***Commafeed*** merupakan aplikasi Google Reader yang simpel. Aplikasi yang nampak seperti “koran online” ini pun tentunya memiliki berbagai kelebihan dan kekurangan . Beberapa Kelebihan dari Commafeed diantaranya :
 
 ### Kelebihan dari Commafeed :
 - Terintegrasi dengan banyak situs
 - Responsif terhadap berbagai macam ukuran
- 
-### kekurangan dari Commafeed ini :
-- Fitur yang cukup rumit
-- Banyak aplikasi sejenis yang lebih lengkap fiturnya
+- Simpel dan mudah digunakan
+- Bekerja secara real time
+- Bersifat lebih pribadi
+- Memiliki berbagai miniatur yang sangat membantu
 
+### kekurangan dari Commafeed ini :
+- Banyak aplikasi sejenis yang lebih lengkap fiturnya
+- Berita yang terintegrasi terbatas
+- Tampilan yang kurang menarik dilihat oleh user
+- Proses respon lambat
+
+Jika dibandingkan dengan aplikasi sejenis seperti Feedly, Commafeed memiliki beberapa perbedaan :
+- Feedly memiliki tampilan aplikasi lebih mengikuti zaman, sedangka Commafeed masih belum terlalu responsif
+- Untuk Feedly sendiri memiliki fitur premium yang tentunya memiliki fitur-fitur tambahan lainnnya sedangkan pada Commafeed sendiri tidak ada
+- Pada Feedly kita bisa mendapatkan berbagai rekomendasi berita mana yang ingin kita berlangganan, sedangkan pada Commafeed hal itu tidak ada, kita diharuskan mencari sendiri
 
 ## Referensi
 1. [Source Code CommaFeed](https://github.com/Athou/commafeed)
 
 2. [Tampilan CommaFeed](https://www.commafeed.com/#/feeds/view/category/31654063)
 
+3. [Website RSS Reader](https://www.antaranews.com/rss)
