@@ -18,6 +18,7 @@
 - Dropwizard
 - AngularJs
 - Java
+- Apache
 
 ### Proses Instalasi
 pada awal instalasi, login kedalam server menggunakan SSH
@@ -75,15 +76,13 @@ Setelah itu terdapat 3 Cara / versi :
 
     
 ## Konfigurasi
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
+Disini kelompok kami menggunakan cara versi pendek, berikut prosesnya :
 
-Plugin untuk fungsi tambahan : 
-- login dengan Google/Facebook
-- editor Markdown
-- dll
+- Pertama kita diharuskan untuk menginstall Java dan Apache terlebih dahulu
+
+        $ sudo apt install apache2
+        $ sudo apt-get install default-jre
+
 
 
 ## Cara Pemakaian
