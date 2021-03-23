@@ -106,11 +106,32 @@ Disini kelompok kami menggunakan cara versi pendek, berikut prosesnya :
 Selama kita menjalankan proses tersebut kita bisa mengakses aplikasi tadi lewat link `http://localhost:8082` di browser maka aplikasi Commafeed akan ditampilkan
 
 ## Cara Pemakaian
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-
+1. Kita Login terlebih dahulu (untuk setiap pemakai sudah diberi usernama dan password default sehingga tidak perlu melakukan proses SignUp)
 <img src="/Foto/1.png" align=center>
+
+2. Setelah berhasil kita akan masuk ke tampilan utama
+<img src="/Foto/2.png" align=center>
+
+
+3. Untuk memulai berlangganan dengan website yang akan diambil tekan tombol Subscribe di kiri atas
+
+4. Masukan Link website yang dituju, beri judul dan pilih kategori. Setelah semua selesai tekan tombol Save
+
+5. Proses berhasil dan kita bisa kembali ke halaman utama, maka Website berita yang dituju akan muncul
+
+6. Selain itu semua artikel baerita tersebut akan muncul semua da kita bisa me refresh terus agar berita yang muncul dapat terus terupdate
+
+Selain bisa mengambil berita, fitur lainnya yang dapat digunakan lewat aplikasi Commafeed ini diantaranya :
+- Mengganti tema Website
+- Mengganti pengaturan bahasa
+- Refresh berita terupdate secara terus menerus
+- Memberi mark artikel yang sudah dibaca dan yang belum
+- Mengurutkan berita sesuai alfabet
+- Filtering berita dengan jangkauan waktu (12 jam terakhir, satu hari terakhir, seminggu terakhir)
+- Membuat kategori berita
+- Mengubah tampilan dari bentuk list ke bentuk per artikel
+- Dll
+
 
 ## Pembahasan
 ***Commafeed*** merupakan aplikasi Google Reader yang simpel. Aplikasi yang nampak seperti “koran online” ini pun tentunya memiliki berbagai kelebihan dan kekurangan . Beberapa Kelebihan dari Commafeed diantaranya :
