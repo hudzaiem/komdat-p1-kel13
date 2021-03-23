@@ -116,13 +116,13 @@ Selama kita menjalankan proses tersebut kita bisa mengakses aplikasi tadi lewat 
 <img align="center" src="https://user-images.githubusercontent.com/60167974/112224911-959f6d80-8c5e-11eb-976c-c043e1166267.png" width="800">
 
 4. Masukan Link website yang dituju, beri judul dan pilih kategori. Setelah semua selesai tekan tombol Save
-<img align="center" src="/Foto/4.png" width="800">
+<img align="center" src="https://user-images.githubusercontent.com/60167974/112224916-96d09a80-8c5e-11eb-8ff9-1072823ed93e.png" width="800">
 
 5. Proses berhasil dan kita bisa kembali ke halaman utama, maka Website berita yang dituju akan muncul
-<img align="center" src="/Foto/5.png" width="800">
+<img align="https://user-images.githubusercontent.com/60167974/112224917-97693100-8c5e-11eb-810d-553617d43ebc.png" width="800">
 
 6. Selain itu semua artikel baerita tersebut akan muncul semua da kita bisa me refresh terus agar berita yang muncul dapat terus terupdate
-<img align="center" src="/Foto/6.png" width="800">
+<img align="center" src="https://user-images.githubusercontent.com/60167974/112224919-9801c780-8c5e-11eb-9ac9-a3512cb8ddbd.png" width="800">
 
 Selain bisa mengambil berita, fitur lainnya yang dapat digunakan lewat aplikasi Commafeed ini diantaranya :
 - Mengganti tema Website
