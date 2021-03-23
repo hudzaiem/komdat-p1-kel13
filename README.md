@@ -123,12 +123,13 @@ Selama kita menjalankan proses tersebut kita bisa mengakses aplikasi tadi lewat 
 - Bersifat lebih pribadi
 - Memiliki berbagai miniatur yang sangat membantu
 
-### kekurangan dari Commafeed ini :
+### Kekurangan dari Commafeed ini :
 - Banyak aplikasi sejenis yang lebih lengkap fiturnya
 - Berita yang terintegrasi terbatas
 - Tampilan yang kurang menarik dilihat oleh user
 - Proses respon lambat
 
+### Perbandingan dengan aplikasi sejenis (Commafeed & Feedly)
 Jika dibandingkan dengan aplikasi sejenis seperti Feedly, Commafeed memiliki beberapa perbedaan :
 - Feedly memiliki tampilan aplikasi lebih mengikuti zaman, sedangka Commafeed masih belum terlalu responsif
 - Untuk Feedly sendiri memiliki fitur premium yang tentunya memiliki fitur-fitur tambahan lainnnya sedangkan pada Commafeed sendiri tidak ada
