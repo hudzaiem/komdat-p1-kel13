@@ -113,7 +113,7 @@ Selama kita menjalankan proses tersebut kita bisa mengakses aplikasi tadi lewat 
 <img align="center" src="/Foto/2.png" width="800">
 
 3. Untuk memulai berlangganan dengan website yang akan diambil tekan tombol Subscribe di kiri atas
-<img align="center" src="/Foto/3.png" width="800">
+<img align="center" src="https://user-images.githubusercontent.com/60167974/112224911-959f6d80-8c5e-11eb-976c-c043e1166267.png" width="800">
 
 4. Masukan Link website yang dituju, beri judul dan pilih kategori. Setelah semua selesai tekan tombol Save
 <img align="center" src="/Foto/4.png" width="800">
