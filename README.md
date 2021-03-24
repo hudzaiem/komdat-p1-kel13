@@ -1,6 +1,20 @@
 # Aplikasi Web Commafeed
 
-<img src="1200px-CommaFeed.svg.png" width="300" height="300" align=center>
+<h1 align="center"><img src="1200px-CommaFeed.svg.png" width="300" height="300"></h1>
+<table align="center">
+    <thead>
+        <tr>
+            <th align="center"><a href="#sekilas-tentang">Sekilas Tentang</a></th>
+            <th align="center"><a href="#instalasi">Instalasi</a></th>
+            <th align="center"><a href="#konfigurasi">Konfigurasi</a></th>
+            <th align="center"><a href="#cara-pemakaian">Cara Pemakaian</a></th>
+            <th align="center"><a href="#pembahasan">Pembahasan</a></th>
+            <th align="center"><a href="#referensi">Referensi</a></th>
+        </tr>
+    </thead>
+</table align="center">
+
+
 
 ### Kelompok 13
 | Nama                   | NIM       |
